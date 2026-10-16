@@ -1,5 +1,5 @@
 
-# PipelinePulse — ETL Monitoring & Data Reliability Platform
+# PipelinePulse - ETL Monitoring & Data Reliability Platform
 
 PipelinePulse is a data engineering project designed to monitor ETL pipeline executions and provide visibility into data processing status, record counts, and data quality issues.
 
